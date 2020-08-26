@@ -1,4 +1,4 @@
-# Mindurand 
+# RandomBlockPlugin 
 Mindustry randomizer
 <!--### Idea-->
 
