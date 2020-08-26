@@ -1,0 +1,7 @@
+{
+  "name": "Randomize",
+  "author": "Fishbuilder",
+  "main": "mindurand.RandomBlockPlugin",
+  "description": "A plugin that randomizes  what blocks you can use.",
+  "version": 0.1
+}
